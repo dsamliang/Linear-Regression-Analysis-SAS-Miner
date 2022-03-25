@@ -20,4 +20,4 @@ GLM: generalized linear model specifing how to interpret coefficients for catego
 
 **Results:**
 
-![image](https://user-images.githubusercontent.com/98597962/160179523-df42cf2b-4e84-4d40-9b84-d05cbb56e89b.png)
+![image](https://user-images.githubusercontent.com/98597962/160179980-377cac4c-578f-4a1b-b5fe-881bb462c799.png)
