@@ -10,7 +10,7 @@
 5. Select ratio of train, validate, and test set (60,30,0)
 6. Drag regression node from model tab 
 7. Select input coding and regression type from regression node properties
-8. Run regressio node and view the results
+8. Run regression node and view the results
 
 
 ![image](https://user-images.githubusercontent.com/98597962/160177898-10189b92-f161-4437-b26a-e9dd946a38ef.png)
@@ -19,3 +19,4 @@ GLM: generalized linear model specifing how to interpret coefficients for catego
 ![image](https://user-images.githubusercontent.com/98597962/160178028-8b6c1e6a-e54c-46eb-a80f-6b9d9ed84cd9.png)
 
 **Results:**
+![image](https://user-images.githubusercontent.com/98597962/160179523-df42cf2b-4e84-4d40-9b84-d05cbb56e89b.png)
