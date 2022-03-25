@@ -5,7 +5,7 @@
 **Steps:**
 1. Create Diagram
 2. Drag file import node from sample and Import measurement.csv
-3. Edit variables, set Height as Target, Weight as Input
+3. Edit variables, set Height as Target, Weight and Age as Input
 4. Drag Data Partition node from sample
 5. Select ratio of train, validate, and test set (60,30,0)
 6. Drag regression node from model tab 
