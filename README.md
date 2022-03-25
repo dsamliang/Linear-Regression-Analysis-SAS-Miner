@@ -1,6 +1,6 @@
 # Linear-Regression-Analysis-SAS-Miner
 
-**Dataset:** measurement.csv 
+**Dataset:** measurement.csv (https://www.stat.purdue.edu/~tqin/system101/method/method_linear_sas.htm)
 
 **Steps:**
 1. Create Diagram
