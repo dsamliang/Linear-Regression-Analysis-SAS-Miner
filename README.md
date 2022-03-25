@@ -1,8 +1,11 @@
 # Linear-Regression-Analysis-SAS-Miner
 
-**Dataset:** measurement.csv (https://www.stat.purdue.edu/~tqin/system101/method/method_linear_sas.htm)
+**Dataset:** 
+-
+measurement.csv (https://www.stat.purdue.edu/~tqin/system101/method/method_linear_sas.htm)
 
 **Steps:**
+-
 1. Create Diagram
 2. Drag file import node from sample and Import measurement.csv
 3. Edit variables, set Height as Target, Weight and Age as Input
@@ -17,5 +20,5 @@
 
 
 **Results:**
-
+-
 - ![image](https://user-images.githubusercontent.com/98597962/160179980-377cac4c-578f-4a1b-b5fe-881bb462c799.png)
